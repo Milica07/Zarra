@@ -1,0 +1,101 @@
+Date of Report,Region,Country,Business Unit,Type of product,Reported Damage (in USD),Comments
+7/1/2023,Africa,South Africa,Clothes,T shirt for women,$500.00,Quantity disagreement
+7/1/2023,Asia Pacific,India,Clothes,Dress,"$10,000.00",
+7/2/2023,Asia Pacific,India,Clothes,Dress,"$2,000.00",Inventory difference at warehouse
+7/2/2023,China,China,Clothes,Suit,$400.00,
+7/3/2023,Middle East,Libya,Clothes,Dress,$550.00,
+7/3/2023,North America,USA,Clothes,T shirt for women,"$60,000.00",Inventory difference at warehouse
+7/4/2023,North America,USA,Clothes,Suit,$350.00,Quantity disagreement
+7/5/2023,Latin America,Brazil,Clothes,Suit,"$1,000.00",
+7/5/2023,Latin America,Mexico,Clothes,Dress,"$20,000.00",
+7/5/2023,Europe,Germany,Home decor,Mirror,$200.00,
+7/5/2023,Europe,Germany,Clothes,Shoes for women,$900.00,
+7/5/2023,Europe,Italy,Footwear,Dress,$500.00,
+7/6/2023,Middle East,Saudi Arabia,Clothes,Dress,"$20,000.00",
+7/6/2023,Europe,Denmark,Clothes,Vase,$800.00,Inventory difference at warehouse
+7/6/2023,Europe,Sweden,Footwear,Shoes for men,$250.00,
+7/6/2023,North America,USA,Footwear,Vase,$920.00,
+7/6/2023,Europe,Spain,Clothes,Dress,$450.00,
+7/7/2023,Asia Pacific,India,Clothes,Suit,$770.00,Inventory difference at warehouse
+7/7/2023,Africa,Nigeria,Clothes,T shirt for women,"$1,200.00",
+7/8/2023,China,Taiwan,Clothes,Vase,"$6,400.00",
+7/9/2023,Europe,Germany,Fashion accessories,Belt,"$1,500.00",
+7/9/2023,Europe,Germany,Home decor,Mirror,"$1,000.00",
+7/10/2023,Middle East,Iraq,Home decor,Vase,$650.00,
+7/10/2023,Latin America,Chile,Fashion accessories,Dress,$930.00,Destroyed in transfer
+7/11/2023,Europe,Belgium,Home decor,Candles,$870.00,Missing product
+7/11/2023,Europe,France,Clothes,Dress,$650.00,
+7/11/2023,Europe,UK,Home decor,Vase,$420.00,Destroyed in transfer
+7/12/2023,Africa,Angola,Home decor,Vase,$990.00,
+7/12/2023,North America,Canada,Home decor,Pillow,$500.00,
+7/12/2023,Latin America,Peru,Home decor,Dress,$500.00,
+7/12/2023,Middle East,Libya,Home decor,Vase,$250.00,
+7/12/2023,Europe,Germany,Clothes,Dress,$150.00,
+7/13/2023,Europe,Norway,Multiple,Other,"$100,000.00",
+7/13/2023,Latin America,Brazil,Fashion accessories,Belt,"$1,000.00",
+7/13/2023,Europe,Spain,Home decor,Candles,$500.00,
+7/14/2023,Europe,Germany,Clothes,Dress,$290.00,
+7/14/2023,Europe,France,Clothes,T shirt for men,"$10,000.00",
+7/14/2023,China,China,Clothes,Vase,$450.00,
+7/14/2023,Middle East,UAE,Footwear,Shoes for men,$630.00,
+7/15/2023,Middle East,Egypt,Home decor,Dress,$780.00,Quantity disagreement
+7/16/2023,Africa,South Africa,Fashion accessories,Bag,$940.00,Destroyed in transfer
+7/16/2023,Africa,Ethiopia,Fashion accessories,Bag,$690.00,Manufacturing error
+7/17/2023,Africa,Sout Africa,Clothes,T shirt for men,$750.00,
+7/17/2023,Asia Pacific,Indonesia,Home decor,Pillow,"$1,200.00",
+7/18/2023,Middle East,Pakistan,Fashion accessories,Bag,"$2,200.00",
+7/18/2023,Europe,Germany,Fashion accessories,Bag,"$5,000.00",Manufacturing error
+7/19/2023,Asia Pacific,Thailand,Multiple,Vase,$150.00,
+7/19/2023,Europe,Poland,Clothes,Suit,$500.00,Inventory difference at warehouse
+7/20/2023,Europe,Denmark,Fashion accessories,Dress,$350.00,Manufacturing error
+7/20/2023,Asia Pacific,India,Home decor,Vase,"$5,000.00",
+7/20/2023,Europe,Netherlands,Clothes,Dress,$680.00,
+7/21/2023,North America,USA,Home decor,Pillow,$720.00,
+7/21/2023,Latin America,Brazil,Multiple,Other,"$5,000.00",
+7/21/2023,Latin America,Brazil,Fashion accessories,Bag,"$10,000.00",
+7/21/2023,Europe,Israel,Clothes,T shirt for women,"$2,000.00",Quantity disagreement
+7/21/2023,China,Hongkong,Clothes,T shirt for men,$150.00,Inventory difference at warehouse
+7/22/2023,Europe,Spain,Clothes,T shirt for women,$810.00,
+7/22/2023,Europe,Spain,Home decor,Pillow,$110.00,
+7/23/2023,Europe,Germany,Clothes,Dress,"$5,000.00",
+7/23/2023,Europe,Serbia,Home decor,Vase,$500.00,Destroyed in transfer
+7/23/2023,Europe,Croatia,Clothes,Jeans,$650.00,Quantity disagreement
+7/23/2023,Europe,Spain,Clothes,Dress,$420.00,
+7/23/2023,Europe,UK,Clothes,Shoes for women,$550.00,
+7/23/2023,Europe,UK,Clothes,Vase,$500.00,Inventory difference at warehouse
+7/23/2023,North America,USA,Clothes,Suit,$500.00,
+7/23/2023,Asia Pacific,India,Clothes,T shirt for women,$400.00,
+7/23/2023,Latin America,Mexico,Clothes,T shirt for men,$300.00,Quantity disagreement
+7/24/2023,Asia Pacific,Thailand,Home decor,Candles,$550.00,
+7/24/2023,Latin America,Mexico,Clothes,Suit,$140.00,
+7/24/2023,Latin America,Guatemala,Home decor,Dress,"$2,000.00",Quantity disagreement
+7/24/2023,Asia Pacific,India,Fashion accessories,Belt,"$1,200.00",
+7/24/2023,Europe,Belgium,Home decor,Vase,"$6,000.00",
+7/24/2023,Europe,Germany,Home decor,Mirror,$320.00,
+7/25/2023,Europe,Germany,Fashion accessories,Bag,$300.00,Destroyed in transfer
+7/25/2023,Latin America,Brazil,Clothes,Dress,"$10,000.00",
+7/25/2023,Middle East,Egypt,Fashion accessories,Belt,$500.00,
+7/26/2023,China,China,Clothes,Dress,$710.00,
+7/26/2023,Europe,Sweden,Clothes,Vase,$960.00,
+7/26/2023,Middle East,Iraq,Clothes,Dress,$180.00,
+7/26/2023,North America,Canada,Fashion accessories,Belt,$110.00,Manufacturing error
+7/27/2023,North America,USA,Clothes,Shoes for women,"$12,000.00",Inventory difference at warehouse
+7/27/2023,Latin America,Brazil,Clothes,Dress,$600.00,
+7/27/2023,Europe,Denmark,Clothes,T shirt for women,$500.00,
+7/27/2023,Europe,Germany,Clothes,Jeans,$500.00,
+7/28/2023,Africa,Morocco,Clothes,T shirt for women,$400.00,
+7/28/2023,Africa,South Africa,Clothes,Suit,$850.00,
+7/28/2023,Middle East,UAE,Home decor,Dress,$500.00,Quantity disagreement
+7/28/2023,Europe,Spain,Clothes,T shirt for men,"$10,000.00",Inventory difference at warehouse
+7/29/2023,Europe,Luxemburg,Fashion accessories,Vase,$500.00,Destroyed in transfer
+7/29/2023,Latin America,Venezuela,Home decor,Dress,"$10,450.00",Quantity disagreement
+7/29/2023,Asia Pacific,Malaysia,Home decor,Dress,$410.00,
+7/29/2023,Europe,Germany,Home decor,Vase,$360.00,Destroyed in transfer
+7/30/2023,Europe,France,Clothes,Jeans,"$2,000.00",
+7/30/2023,Europe,UK,Multiple,Other,$180.00,
+7/30/2023,China,China,Footwear,Vase,"$2,000.00",Quantity disagreement
+7/30/2023,North America,Canada,Fashion accessories,Belt,"$2,000.00",
+7/30/2023,North America,USA,Footwear,Shoes for men,$880.00,
+7/30/2023,Africa,Tanzania,Clothes,Dress,$730.00,Quantity disagreement
+7/31/2023,Asia Pacific,India,Fashion accessories,Vase,$500.00,Destroyed in transfer
+7/31/2023,Europe,Germany,Home decor,Candles,$350.00,Missing product
